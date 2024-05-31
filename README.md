@@ -1,4 +1,4 @@
-# SLR ticket reservation service
+# nestjs-postgres-boilerplate-code
 
 ## Installation
 
